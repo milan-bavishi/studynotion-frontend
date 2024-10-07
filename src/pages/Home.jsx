@@ -39,7 +39,7 @@ function Home() {
                 </Link>
 
                 <div className="text-center text-3xl md:text-4xl font-semibold mt-7">
-                    Empower Your Future With <HignlightText text={"Coding Skills"}/> 
+                    Empower Your Future Withh <HignlightText text={"Coding Skills"}/> 
                 </div>
                 <div className="mt-4 w-[90%] text-left md:text-center text-sm md:text-lg font-bold text-richblack-300">
                 With our online coding courses, you can learn at your own pace, from anywhere in the world, and get access to a wealth of resources, including hands-on projects, quizzes, and personalized feedback from instructors.
